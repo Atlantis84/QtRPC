@@ -1,0 +1,6 @@
+#gitignore
+/bin
+QtXmlRPC.pro.user
+/DMDBAccess/DMDBAccess.pro.user
+/DMDBAccess/tmp
+/DMDBAccess/bin

@@ -1,0 +1,14 @@
+{"IPConfigs":
+    [{
+        "PLC_IP":"192.168.0.123",
+        "VISUAL_IP":"192.168.0.124",
+        "CENTRAL_CONTROL_IP":"192.168.0.125"
+    }],
+    "PortConfigs":
+    {
+        "PLC_PORT":"60000",
+        "VISUAL_PORT":"70000",
+        "CENTRAL_CONTROL_PORT":"80000"
+    },
+    "ConfigInstructions":"VISUAL GUIDE"
+}
